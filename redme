@@ -1,24 +1,4 @@
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-ZxXecho "# test" >> README.md
+"# test" >> README.md
 git init
 git add README.md
 git commit -m "first commit"casc
