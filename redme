@@ -1,4 +1,4 @@
-xsaaX"# test" >> README.md
+"# test" >> README.md
 git init
 git add README.md
 git commit -m "first commit"casc
@@ -6,4 +6,4 @@ git branch -M main
 git remote add origin https://github.com/Mostakim0x01/test.git
 git push -u origin main
 git push -u origin main
-s
+
