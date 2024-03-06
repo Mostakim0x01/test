@@ -1,13 +1,3 @@
- LOvvcxv zv 
-LOvxv z
-LOvvcxv zv 
-LOvvcxv zv 
-
-LOvvcxv z
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
-LOvvcxv zv 
 "# test" >> README.md
 git init
 git add README.md
