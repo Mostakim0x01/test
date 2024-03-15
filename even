@@ -1,4 +1,4 @@
-git commit -m "first commit"casc
+LOvvcxvgit commit -m "first commit"casc
 git branch -M main
 git remote add origin https://github.com/Mostakim0x01/test.git
 git push -u origin main
